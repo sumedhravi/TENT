@@ -10,9 +10,9 @@ We observed an improvement in performance for all the model architectures when u
 ## Performance of comparison
 
 ### Resnet 18 model
-![alt text](https://github.com/sumedhravi/TENT/tree/main/plots/mnistc_resnet18.png "Resnet model comparison with and without applying TENT")
+![Resnet model comparison with and without applying TENT](/plots/mnistc_resnet18.jpg)
 ### VGG16 model
-![alt text](https://github.com/sumedhravi/TENT/tree/main/plots/mnistc_vgg16.png "Resnet model comparison with and without applying TENT")
+![VGG16 model comparison with and without applying TENT](/plots/mnistc_vgg16.jpg)
 ### Simple CNN model
-![alt text](https://github.com/sumedhravi/TENT/tree/main/plots/mnistc_simpleCNN.png "Resnet model comparison with and without applying TENT")
+![Simple CNN model comparison with and without applying TENT](/plots/mnistc_simpleCNN.jpg)
 
