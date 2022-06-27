@@ -6,3 +6,13 @@ Modern Deep Neural Networks can achieve high accuracy on classification and segm
 This repository consists of code to train a Convolutional Neural Network model on an image dataset and evaluate its performance on clean and noisy data. MNIST dataset was used to train the model and the MNIST-C dataset was used as the noisy data for testing. MNIST-C contains 15 different corruptions of the original MNIST dataset and can be downloaded [here](https://zenodo.org/record/3239543#.YrkHYOzMJEY). 
 
 We observed an improvement in performance for all the model architectures when using TEST during evaluation phase. Trained models have also been included in this repository.
+
+## Performance of comparison
+
+### Resnet 18 model
+![alt text](https://github.com/sumedhravi/TENT/tree/main/plots/mnistc_resnet18.png "Resnet model comparison with and without applying TENT")
+### VGG16 model
+![alt text](https://github.com/sumedhravi/TENT/tree/main/plots/mnistc_vgg16.png "Resnet model comparison with and without applying TENT")
+### Simple CNN model
+![alt text](https://github.com/sumedhravi/TENT/tree/main/plots/mnistc_simpleCNN.png "Resnet model comparison with and without applying TENT")
+
