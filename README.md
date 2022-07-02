@@ -7,7 +7,7 @@ This repository consists of code to train a Convolutional Neural Network model o
 
 We observed an improvement in performance for all the model architectures when using TEST during evaluation phase. Trained models have also been included in this repository.
 
-## Performance of comparison
+## Comaprison of performance
 
 ### Resnet 18 model
 ![Resnet model comparison with and without applying TENT](/plots/mnistc_resnet18.jpg)
